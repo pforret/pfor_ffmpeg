@@ -213,3 +213,16 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+
+#########################
+## Manually added
+#########################
+
+_output/*.mp4
+_output/*.mov
+_output/*.avi
+_output/*.vob
+_output/*.m4v
+_output/*.mkv
+_output/*.wmv
