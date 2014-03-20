@@ -7,4 +7,4 @@ set FONTDIR=..\_fonts
 
 set THUMBSDIR=thumbs
 if not exist %THUMBSDIR%\. mkdir %THUMBSDIR%
-set FFTHUMBS=-ss 5 -r 0.1 -frames 5
+set FFTHUMBS=-ss 5 -r 0.1 -frames 9 
